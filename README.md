@@ -1,1 +1,1 @@
-# arch_dotfiles
+# HYPRLAND and other DOT-files
