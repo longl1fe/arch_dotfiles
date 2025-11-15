@@ -1,1 +1,1 @@
-# HYPRLAND and other DOT-files
+# HYPRLAND,I3 and other DOT-files
