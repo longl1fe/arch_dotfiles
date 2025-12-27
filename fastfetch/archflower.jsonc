@@ -1,0 +1,31 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "display": {
+      "color": {
+        "keys": "magenta",
+        "title": "magenta"
+      }
+  },
+  "logo": {
+      "source": "sasanqua",
+      "padding": {
+          "top": 1
+      },
+      "color": {
+        "1": "magenta"
+    }
+  },
+  "modules": [
+    "break",
+    "separator",
+    "title",
+    "separator",
+    "os",
+    "shell",
+    "initsystem",
+    "wm",
+    "cpu",
+    "memory",
+    "separator"
+  ]
+}
